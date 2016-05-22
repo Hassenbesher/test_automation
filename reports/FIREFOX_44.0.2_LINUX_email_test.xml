@@ -5,9 +5,9 @@
 
   <testsuite name="email_test"
     errors="0" failures="0" hostname="" id="" package="email_test" skipped="0"
-    tests="1" time="10.31" timestamp="Sun, 22 May 2016 21:46:41 GMT">
+    tests="1" time="11.23" timestamp="Sun, 22 May 2016 22:09:34 GMT">
   
-    <testcase name="email_test" time="10.31" assertions="1">
+    <testcase name="email_test" time="11.23" assertions="1">
 
     
     </testcase>

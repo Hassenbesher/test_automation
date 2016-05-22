@@ -14,9 +14,7 @@ module.exports = {
       .pause(1000)
       .setValue("input[id=Passwd]", password)
       .click("input[id=signIn]")
-
-
-
-
+      .pause(1000)
+      .click("a.gb_P")
     }
   };
