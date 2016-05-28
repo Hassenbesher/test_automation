@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="sample_test"
+    errors="0" failures="0" hostname="" id="" package="sample_test" skipped="0"
+    tests="2" time="30.00" timestamp="Sat, 28 May 2016 17:51:00 GMT">
+  
+    <testcase name="Demo test Google" time="14.66" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+      <system-err>
+         ERROR: Unable to locate element: &quot;.T-I.J-J5-Ji.T-I-KE.L3&quot; using: css selector
+ ERROR: Unable to locate element: &quot;a[id=yui_3_18_0_5_1464420061938_1028]&quot; using: css selector
+      </system-err>
+  
+    <testcase name="Demo test two" time="15.34" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+      <system-err>
+         ERROR: Unable to locate element: &quot;.T-I.J-J5-Ji.T-I-KE.L3&quot; using: css selector
+ ERROR: Unable to locate element: &quot;a[id=yui_3_18_0_5_1464420061938_1028]&quot; using: css selector
+      </system-err>
+  
+  
+  </testsuite>
+</testsuites>

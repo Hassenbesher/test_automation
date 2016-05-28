@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="7"
+            failures="0"
+            tests="2">
+
+  <testsuite name="email_test"
+    errors="7" failures="0" hostname="" id="" package="email_test" skipped="0"
+    tests="2" time="76.41" timestamp="Sat, 28 May 2016 03:02:19 GMT">
+  
+    <testcase name="email_test" time="38.85" assertions="1">
+
+    
+    </testcase>
+      <system-err>
+         ERROR: Unable to locate element: &quot;a.gb_P&quot; using: css selector
+ ERROR: Unable to locate element: &quot;input[id=login-username]&quot; using: css selector
+ ERROR: Unable to locate element: &quot;button#login-signin.pure-u-1.pure-button.mbr-button-primary&quot; using: css selector
+ ERROR: Unable to locate element: &quot;input[id=login-passwd]&quot; using: css selector
+ ERROR: Unable to locate element: &quot;a#uh-mail-link.D(ib).Ta(s).Td(n):h.uh-menu-btn&quot; using: css selector
+      </system-err>
+  
+    <testcase name="Recivers" time="37.56" assertions="1">
+
+    
+    </testcase>
+      <system-err>
+         ERROR: Unable to locate element: &quot;a.gb_P&quot; using: css selector
+ ERROR: Unable to locate element: &quot;input[id=login-username]&quot; using: css selector
+ ERROR: Unable to locate element: &quot;button#login-signin.pure-u-1.pure-button.mbr-button-primary&quot; using: css selector
+ ERROR: Unable to locate element: &quot;input[id=login-passwd]&quot; using: css selector
+ ERROR: Unable to locate element: &quot;a#uh-mail-link.D(ib).Ta(s).Td(n):h.uh-menu-btn&quot; using: css selector
+      </system-err>
+  
+  
+  </testsuite>
+</testsuites>
