@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuites errors="4"
+<testsuites errors="5"
             failures="0"
-            tests="2">
+            tests="1">
 
   <testsuite name="email_test"
-    errors="4" failures="0" hostname="" id="" package="email_test" skipped="0"
-    tests="2" time="48.22" timestamp="Sat, 28 May 2016 17:33:15 GMT">
+    errors="5" failures="0" hostname="" id="" package="email_test" skipped="0"
+    tests="1" time="20.86" timestamp="Wed, 15 Jun 2016 03:11:17 GMT">
   
-    <testcase name="email_test" time="21.65" assertions="2">
+    <testcase name="email_test" time="20.86" assertions="2">
 
     
 
@@ -15,16 +15,9 @@
     </testcase>
       <system-err>
          ERROR: Unable to locate element: &quot;.T-I.J-J5-Ji.T-I-KE.L3&quot; using: css selector
- ERROR: Unable to locate element: &quot;a[id=yui_3_18_0_5_1464420061938_1028]&quot; using: css selector
-      </system-err>
-  
-    <testcase name="Recivers" time="26.57" assertions="1">
-
-    
-    </testcase>
-      <system-err>
-         ERROR: Unable to locate element: &quot;.T-I.J-J5-Ji.T-I-KE.L3&quot; using: css selector
- ERROR: Unable to locate element: &quot;a[id=yui_3_18_0_5_1464420061938_1028]&quot; using: css selector
+ ERROR: Unable to locate element: &quot;textarea[name=to]&quot; using: css selector
+ ERROR: Unable to locate element: &quot;input[name=subjectbox]&quot; using: css selector
+ ERROR: Unable to locate element: &quot;.T-I.J-J5-Ji.aoO.T-I-atl.L3[role=&#39;button&#39;]&quot; using: css selector
       </system-err>
   
   
